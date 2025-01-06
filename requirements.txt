@@ -1,0 +1,5 @@
+requests>=2.31.0
+pandas>=2.1.0
+howlongtobeatpy>=0.3.2
+google-api-python-client>=2.108.0
+google-auth>=2.23.0
