@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️
+## ⚙️ Customization
 
 ### Steam API Setup
 1. **Get API key**:
