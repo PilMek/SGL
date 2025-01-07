@@ -22,7 +22,7 @@ Make sure you have Python version 3.7 or higher installed. You can download it [
 ### 2. Download the project
 Download the latest version of the script or clone the repository:
 ```bash
-git clone https://github.com/PilMek/SGL.git
+git clone https://github.com/VFPixDev/SGL.git
 cd SGL
 ```
 
